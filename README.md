@@ -2,7 +2,7 @@
 
 Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
 
-This project was for the **Object-Oriented Programming using C#, Windows Forms, and Object-Oriented Programming principles**.
+This project was for the **Object-Oriented Programming course using C#, Windows Forms, and Object-Oriented Programming principles**.
 
 The application is a desktop-based condominium management system that manages buildings, apartments, residents, payments, and access control for shared facilities such as swimming pools and fitness centers.
 
@@ -11,8 +11,7 @@ The application is a desktop-based condominium management system that manages bu
 ## 🛠 Technologies
 
 - C#
-- .NET Framework
-- Windows Forms
+- .NET Framework Windows Forms
 
 ---
 
