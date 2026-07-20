@@ -92,9 +92,4 @@ Make sure these files remain in the application's working directory.
 
 This repository preserves the original academic project as it was developed for the **Object-Oriented Programming** course.
 
-This project is a Windows Forms implementation of the same management domain previously developed as a C++ console application.
-
-For the original C++ version, visit:
-https://github.com/Lucaskatalahali/condominium-management-system
-
-For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
+For more academic proprojectssit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
