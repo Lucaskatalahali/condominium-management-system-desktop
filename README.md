@@ -1,4 +1,4 @@
-# condominium-management-system-desktop
+# 🏢 Condominium Management System - Desktop App
 
 Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
 
@@ -11,6 +11,7 @@ The application is a desktop-based condominium management system that manages bu
 ## 🛠 Technologies
 
 - C#
+- .NET Framework
 - Windows Forms
 
 ---
@@ -37,7 +38,7 @@ The application is a desktop-based condominium management system that manages bu
 ---
 
 ### Register New User
-![Register New User](NDPproje/NDPproje/assets/resident-management.png)
+![Register New User](NDPproje/NDPproje/assets/register.png)
 
 ---
 
@@ -49,7 +50,7 @@ The application is a desktop-based condominium management system that manages bu
 ### Reports
 ![Reports](NDPproje/NDPproje/assets/data_report.png)
 ---
-![Reports](NDPproje/NDPproje/assets/docs/payment_report.png)
+![Reports](NDPproje/NDPproje/assets/payment_report.png)
 
 ---
 
