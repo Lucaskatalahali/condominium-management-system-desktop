@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\ndpproje\\formbilgiduzeltme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formbilgiduzeltme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\formmekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formmekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\mekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\mekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\classhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\classhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\formrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\oturan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\oturan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\misafir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\misafir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\havuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\havuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\ndpproje\\formrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\ndpproje\\formoturankayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formoturankayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\formoturankayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formoturankayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\ndpproje\\formmekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formmekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\formbilgiduzeltme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\formbilgiduzeltme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\ndpproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|c:\\users\\lucas\\downloads\\ndpproje\\ndpproje\\ndpproje\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4DD25D-B7F8-4C1E-8788-6E3F571628EC}|NDPproje\\NDPproje.csproj|solutionrelative:ndpproje\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mekan.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Mekan.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Mekan.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Mekan.cs",
+              "RelativeToolTip": "NDPproje\\Mekan.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:03:17.938Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMekan.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormMekan.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormMekan.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormMekan.cs",
+              "RelativeToolTip": "NDPproje\\FormMekan.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:47:54.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBilgiDuzeltme.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormBilgiDuzeltme.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormBilgiDuzeltme.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormBilgiDuzeltme.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormBilgiDuzeltme.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:40:54.755Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Daire.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Daire.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Daire.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Daire.cs",
+              "RelativeToolTip": "NDPproje\\Daire.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:45:59.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\ClassHelper.cs",
+              "RelativeDocumentMoniker": "NDPproje\\ClassHelper.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\ClassHelper.cs",
+              "RelativeToolTip": "NDPproje\\ClassHelper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:19:41.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Form1.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Form1.cs",
+              "RelativeToolTip": "NDPproje\\Form1.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAA0wB0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:55:04.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRapor.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormRapor.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormRapor.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormRapor.cs",
+              "RelativeToolTip": "NDPproje\\FormRapor.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:10:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Oturan.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Oturan.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Oturan.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Oturan.cs",
+              "RelativeToolTip": "NDPproje\\Oturan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:19:06.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Misafir.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Misafir.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Misafir.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Misafir.cs",
+              "RelativeToolTip": "NDPproje\\Misafir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:26:06.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Havuz.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Havuz.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Havuz.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Havuz.cs",
+              "RelativeToolTip": "NDPproje\\Havuz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:23:13.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRapor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormRapor.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormRapor.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormRapor.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormRapor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:08:04.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormOturanKayit.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormOturanKayit.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormOturanKayit.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormOturanKayit.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormOturanKayit.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:09:34.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormOturanKayit.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormOturanKayit.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormOturanKayit.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormOturanKayit.cs",
+              "RelativeToolTip": "NDPproje\\FormOturanKayit.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:34:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormMekan.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormMekan.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormMekan.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormMekan.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\FormMekan.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:16:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBilgiDuzeltme.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormBilgiDuzeltme.cs",
+              "RelativeDocumentMoniker": "NDPproje\\FormBilgiDuzeltme.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\FormBilgiDuzeltme.cs",
+              "RelativeToolTip": "NDPproje\\FormBilgiDuzeltme.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:01:09.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Form1.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\NDPproje\\NDPproje\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:38:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Fitness.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Fitness.cs",
+              "RelativeDocumentMoniker": "NDPproje\\Fitness.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Downloads\\NDPproje\\NDPproje\\NDPproje\\Fitness.cs",
+              "RelativeToolTip": "NDPproje\\Fitness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:22:49.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
