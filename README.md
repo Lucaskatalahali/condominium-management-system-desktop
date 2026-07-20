@@ -79,6 +79,16 @@ Make sure these files remain in the application's working directory.
 
 ---
 
+## 🎓 Academic Information
+
+- **University:** Sakarya Üniversitesi
+- **Department:** Computer Engineering
+- **Course:** Object-Oriented Programming
+- **Academic Year:** 2024–2025
+- **Project Grade:** 90/100
+
+---
+
 ## 📌 Notes
 
 This repository preserves the original academic project as it was developed for the **Object-Oriented Programming** course.
