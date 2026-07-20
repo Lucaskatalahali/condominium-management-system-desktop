@@ -96,7 +96,7 @@ This project is a Windows Forms implementation of the same management domain pre
 
 For the original C++ version, visit:
 
-https://github.com/Lucaskatalahali/condominium-management-system
+https://github.com/Lucaskatalahali/condominium-management-system-desktop
 
 For more academic projects, visit my **Computer Engineering Projects** repository:
 
