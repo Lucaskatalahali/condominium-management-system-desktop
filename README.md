@@ -1,8 +1,10 @@
 # 🏢 Condominium Management System - Desktop App
 
-Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
+![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 
-This project was for the **Object-Oriented Programming course using C#, Windows Forms, and Object-Oriented Programming principles**.
+![Course](https://img.shields.io/badge/Course-Object_Oriented_Programming-blue)
+
+> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
 
 The application is a desktop-based condominium management system that manages buildings, apartments, residents, payments, and access control for shared facilities such as swimming pools and fitness centers.
 
