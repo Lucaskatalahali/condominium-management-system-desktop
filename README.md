@@ -92,4 +92,5 @@ Make sure these files remain in the application's working directory.
 
 This repository preserves the original academic project as it was developed for the **Object-Oriented Programming** course.
 
-For more academic proprojectssit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
+- 💡 **Related Project:** A console-based version of this project written in **C++** is available in the **[Condominium Management System (Console App)](https://github.com/Lucaskatalahali/condominium-management-system)** repository.
+- 🎓 For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
