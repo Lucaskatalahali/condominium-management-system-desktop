@@ -11,7 +11,7 @@ The application is a desktop-based condominium management system that manages bu
 ## 🛠 Technologies
 
 - C#
-- .NET Framework Windows Forms
+- .NET WinForms
 
 ---
 
@@ -21,8 +21,7 @@ The application is a desktop-based condominium management system that manages bu
 - Apartment management
 - Resident management
 - Payment management
-- Swimming pool access control
-- Fitness center access control
+- Swimming pool and fitness center access control
 - Data and payment reports
 - CRUD operations (Create, Read, Update, Delete)
 - File-based data persistence
